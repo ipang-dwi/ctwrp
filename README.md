@@ -18,6 +18,7 @@ coz I was hit the deadline, my client still wants his App in Indonesian.
 I think it 'll be usefull to share it, may another user needs it or wanna to convert it 
 to other programming language. :)   
 
-feel free to reach me on :
-</br>www.firstplato.com
-</br>admin@firsplato.com
+Feel free to reach me on :
+- https://www.firstplato.com
+- https://www.facebook.com/firstplato
+- admin@firstplato.com
